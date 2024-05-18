@@ -1,4 +1,4 @@
 
-const API = "http://localhost:3000";
+const API = "https://backend-bmt.onrender.com";
 
 export default API;
